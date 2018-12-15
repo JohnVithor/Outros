@@ -1,0 +1,6 @@
+# Ignora o diretorio dos datasets
+Data/matriculas/*
+Data/turmas/*
+Data/componentes-curriculares-presenciais.csv
+Data/estruturas-curriculares/
+.ipynb_checkpoints/
